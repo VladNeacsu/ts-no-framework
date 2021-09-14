@@ -1,0 +1,13 @@
+/node_modules/
+/build/
+/dist/
+/docs/
+.idea/
+.vscode/
+
+.DS_Store
+coverage
+*.log
+
+#generated Config file
+config/Config.d.ts

@@ -1,0 +1,17 @@
+{
+  "type": "sqlite",
+  "database": ":memory:",
+  "dropSchema": true,
+  "synchronize": true,
+  "logging": false,
+  "entities": [
+    "dist/src/Models/**/*.{ts,js}"
+  ],
+  "migrations": [
+    "migrations/*.ts"
+  ],
+  "cli": {
+    "entitiesDir": "src/Models",
+    "migrationsDir": "migrations"
+  }
+}

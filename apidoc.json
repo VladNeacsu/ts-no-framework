@@ -1,0 +1,9 @@
+{
+  "name": "Clipr Home Assignment",
+  "version": "0.1.0",
+  "description": "Clipr Home Assignment",
+  "apidoc": {
+    "title": "Clipr Home Assignment",
+    "url" : "http://localhost:1337"
+  }
+}
